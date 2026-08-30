@@ -1,0 +1,15 @@
+{
+  "name": "Athlete IQ",
+  "short_name": "Athlete IQ",
+  "description": "Training and nutrition intelligence for endurance athletes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": [
+    { "src": "assets/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/app-icon.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" }
+  ]
+}
